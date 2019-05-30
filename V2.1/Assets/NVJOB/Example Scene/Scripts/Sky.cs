@@ -14,10 +14,13 @@ public class Sky : MonoBehaviour
 
     public float ssgUvRotateSpeed = 1;
     public float ssgUvRotateDistance = 1;
-    
+    public Transform player;
+
+
     //---------------------------------
 
-    Vector2 ssgVector;    
+    Vector2 ssgVector;
+    Transform tr;
 
 
     /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -29,6 +32,7 @@ public class Sky : MonoBehaviour
         //---------------------------------
 
         ssgVector = Vector2.zero;
+        tr = transform;
 
         //---------------------------------
     }
@@ -48,9 +52,13 @@ public class Sky : MonoBehaviour
         Shader.SetGlobalFloat("_SkyShaderUvZ", ssgVector.y);
 
         //---------------------------------
+
+        tr.position = new Vector3(player.position.x, tr.position.y, player.position.z);
+
+        //---------------------------------
     }
 
 
-   
+
     /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 }
