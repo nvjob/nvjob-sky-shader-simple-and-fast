@@ -1,4 +1,4 @@
-# NVJOB Sky Shader - simple and fast.
+# NVJOB Dynamic Sky (simple and fast)
 
 Version 2.1
 
