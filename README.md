@@ -6,7 +6,12 @@ Simple and fast sky shader. The asset includes two shaders and a simple script.
 There is an example in the asset that allows you to quickly understand how to use the "sky" in your project.
 For the shader to work properly, a dome model with prepared UV is required. Model of the dome can be taken from the example.
 
-https://www.youtube.com/watch?v=5PywefSMZpk
+Unity Asset Store - https://assetstore.unity.com/packages/vfx/particles/environment/nvjob-dynamic-sky-simple-and-fast-152747
+
+Previous Versions - https://github.com/nvjob/NVJOB-Sky-Shader-old-versions
+
+https://www.youtube.com/watch?v=7daG2E1tNok
+https://www.youtube.com/watch?v=8xBBqnpXuRY
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/master/Images/Dynamic%20Sky%20(3).png)
 
