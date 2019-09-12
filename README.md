@@ -1,6 +1,6 @@
 # #NVJOB Dynamic Sky (simple and fast)
 
-Version 2.1
+Version 2.2
 
 Simple and fast sky shader. The asset includes two shaders and a simple script.
 There is an example in the asset that allows you to quickly understand how to use the "sky" in your project.
@@ -14,9 +14,11 @@ https://www.youtube.com/watch?v=7daG2E1tNok
 
 https://www.youtube.com/watch?v=8xBBqnpXuRY
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/master/Images/Dynamic%20Sky%20(3).png)
+![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%203.png)
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/master/Images/Dynamic%20Sky%20(1).png)
+![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%202.png)
+
+![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%201.png)
 
 ------------------------------------
 
@@ -55,7 +57,11 @@ public class Sky : MonoBehaviour
 }
 ```
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/master/Images/Dynamic%20Sky%20(2).png)
+![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%206.png)
+
+![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%204.png)
+
+![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%205.png)
 
 ------------------------------------
 
