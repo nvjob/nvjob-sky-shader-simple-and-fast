@@ -1,6 +1,6 @@
 # #NVJOB Dynamic Sky (simple and fast)
 
-Version 2.2
+Version 2.2.1
 
 Simple and fast sky shader. The asset includes two shaders and a simple script.
 There is an example in the asset that allows you to quickly understand how to use the "sky" in your project.
