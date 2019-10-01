@@ -1,4 +1,4 @@
-# #NVJOB Dynamic Sky (simple and fast)
+# #NVJOB Dynamic Sky Lite (standard render)
 
 Version 2.2.1
 
