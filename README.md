@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=ALo3AYyVWcY<br/>
 https://www.youtube.com/watch?v=8xBBqnpXuRY
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/4.jpg)
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/5.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/6.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/7.jpg)
 
 ------------------------------------
 
