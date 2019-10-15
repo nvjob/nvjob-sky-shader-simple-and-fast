@@ -6,19 +6,15 @@ Simple and fast sky shader. The asset includes two shaders and a simple script.
 There is an example in the asset that allows you to quickly understand how to use the "sky" in your project.
 For the shader to work properly, a dome model with prepared UV is required.
 
-Unity Asset Store - https://assetstore.unity.com/packages/vfx/particles/environment/nvjob-dynamic-sky-simple-and-fast-152747
-
+Unity Asset Store - https://assetstore.unity.com/packages/vfx/particles/environment/nvjob-dynamic-sky-simple-and-fast-152747<br/>
 Previous Versions - https://github.com/nvjob/NVJOB-Sky-Shader-old-versions
 
-https://www.youtube.com/watch?v=ALo3AYyVWcY
-
+https://www.youtube.com/watch?v=ALo3AYyVWcY<br/>
 https://www.youtube.com/watch?v=8xBBqnpXuRY
 
-![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%203.png)
-
-![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%202.png)
-
-![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%201.png)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/4.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/5.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/6.jpg)
 
 ------------------------------------
 
@@ -61,11 +57,7 @@ public class DynamicSkyLite : MonoBehaviour
 }
 ```
 
-![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%206.png)
-
-![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%204.png)
-
-![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%205.png)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/3a.jpg)
 
 -------------------------------------------------------------------
 
