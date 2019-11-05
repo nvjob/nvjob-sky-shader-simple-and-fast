@@ -1,6 +1,7 @@
 ﻿// Copyright (c) 2016 Unity Technologies. MIT license - license_unity.txt
-// #NVJOB Dynamic Sky Lite (Standard render) V2.2. MIT license - license_nvjob.txt
-// #NVJOB Nicholas Veselov - https://nvjob.pro, http://nvjob.dx.am
+// #NVJOB Dynamic Sky Lite (Standard render). MIT license - license_nvjob.txt
+// #NVJOB Dynamic Sky Lite (Standard render) V2.3 - https://nvjob.github.io/unity/nvjob-water-shader
+// #NVJOB Nicholas Veselov (independent developer) - https://nvjob.github.io
 
 
 Shader "#NVJOB/Dynamic Sky Lite (Standard)/Horizon" {
