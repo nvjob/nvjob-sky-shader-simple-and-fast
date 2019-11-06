@@ -11,9 +11,6 @@ For the shader to work properly, a dome model with prepared UV is required.
 Unity Asset Store - https://assetstore.unity.com/packages/vfx/particles/environment/nvjob-dynamic-sky-simple-and-fast-152747 <br>
 Previous Versions - https://github.com/nvjob/NVJOB-Sky-Shader-old-versions
 
-https://www.youtube.com/watch?v=ALo3AYyVWcY<br/>
-https://www.youtube.com/watch?v=8xBBqnpXuRY
-
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/230/pic/1.gif)
 
 ### Prerequisites
