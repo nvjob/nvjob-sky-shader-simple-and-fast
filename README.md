@@ -1,5 +1,4 @@
 # #NVJOB Dynamic Sky Lite (standard render)
-https://nvjob.github.io/unity/nvjob-dynamic-sky-lite
 
 Version 2.3
 
