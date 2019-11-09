@@ -7,7 +7,7 @@ Simple and fast sky shader. The asset includes two shaders and a simple script.<
 There is an example in the asset that allows you to quickly understand how to use the "sky" in your project.<br>
 For the shader to work properly, a dome model with prepared UV is required.
 
-**Previous Versions** - https://github.com/nvjob/NVJOB-Sky-Shader-old-versions
+**Previous Versions** - [github.com/nvjob/NVJOB-Sky-Shader-old-versions](https://github.com/nvjob/NVJOB-Sky-Shader-old-versions)
 
 -------------------------------------------------------------------
 
