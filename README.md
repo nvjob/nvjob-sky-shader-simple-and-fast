@@ -14,11 +14,9 @@ For the shader to work properly, a dome model with prepared UV is required.
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/230/pic/1.gif)
 
 ### Prerequisites
-
 To work on the project, you will need a Unity version of at least 2019.1.8 (64-bit).
 
 ### Information
-
 The movement of clouds is carried out using global shader variables: _SkyShaderUvX, _SkyShaderUvZ.<br/>
 _SkyShaderUvX, _SkyShaderUvZ - Offset main texture (Sky shader).
 
@@ -54,8 +52,8 @@ public class DynamicSkyLite : MonoBehaviour
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/3a.jpg)
 
 #### Video manual:
-https://www.youtube.com/watch?v=8xBBqnpXuRY <br>
-https://www.youtube.com/watch?v=7daG2E1tNok
+[youtube.com/watch?v=8xBBqnpXuRY](https://www.youtube.com/watch?v=8xBBqnpXuRY) <br>
+[youtube.com/watch?v=7daG2E1tNok](https://www.youtube.com/watch?v=7daG2E1tNok)
 
 -------------------------------------------------------------------
 
