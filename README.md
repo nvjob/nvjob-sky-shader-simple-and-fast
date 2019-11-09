@@ -9,9 +9,9 @@ For the shader to work properly, a dome model with prepared UV is required.
 
 **Previous Versions** - https://github.com/nvjob/NVJOB-Sky-Shader-old-versions
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/230/pic/1.gif)
-
 -------------------------------------------------------------------
+
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/230/pic/1.gif)
 
 ### Prerequisites
 
