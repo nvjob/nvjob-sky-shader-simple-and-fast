@@ -50,7 +50,10 @@ public class DynamicSkyLite : MonoBehaviour
 ```
 
 #### Video manual:
-https://www.youtube.com/watch?v=8xBBqnpXuRY
+https://www.youtube.com/watch?v=8xBBqnpXuRY <br>
+https://www.youtube.com/watch?v=7daG2E1tNok
+
+-------------------------------------------------------------------
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/3a.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/6.jpg)
