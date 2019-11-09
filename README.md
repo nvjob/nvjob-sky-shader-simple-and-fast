@@ -22,7 +22,7 @@ To work on the project, you will need a Unity version of at least 2019.1.8 (64-b
 The movement of clouds is carried out using global shader variables: _SkyShaderUvX, _SkyShaderUvZ.<br/>
 _SkyShaderUvX, _SkyShaderUvZ - Offset main texture (Sky shader).
 
-#### Example script.
+#### Example script:
 
 ```
 using UnityEngine;
