@@ -19,6 +19,8 @@ To work on the project, you will need a Unity version of at least 2019.1.8 (64-b
 
 ### Information
 
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/3a.jpg)
+
 The movement of clouds is carried out using global shader variables: _SkyShaderUvX, _SkyShaderUvZ.<br/>
 _SkyShaderUvX, _SkyShaderUvZ - Offset main texture (Sky shader).
 
@@ -57,7 +59,6 @@ https://www.youtube.com/watch?v=7daG2E1tNok
 
 -------------------------------------------------------------------
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/3a.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/4.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/6.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/7.jpg)
