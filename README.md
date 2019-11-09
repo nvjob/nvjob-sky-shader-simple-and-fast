@@ -11,6 +11,8 @@ For the shader to work properly, a dome model with prepared UV is required.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/230/pic/1.gif)
 
+-------------------------------------------------------------------
+
 ### Prerequisites
 
 To work on the project, you will need a Unity version of at least 2019.1.8 (64-bit).
