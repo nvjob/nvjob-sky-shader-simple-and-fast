@@ -9,54 +9,26 @@ For the shader to work properly, a dome model with prepared UV is required.
 
 **Previous Versions** - [github.com/nvjob/NVJOB-Sky-Shader-old-versions](https://github.com/nvjob/NVJOB-Sky-Shader-old-versions)
 
+### Compatibility
+
+Built-in Render Pipeline.<br>
+For Unity version of at least 2019.1.8 (64-bit).
+
+-------------------------------------------------------------------
+
+**Authors:** <br>
+[#NVJOB. Nicholas Veselov Unity Developer.](https://nvjob.github.io)<br>
+[Николай Веселов Unity Разработчик Санкт-Петербург.](https://nvjob.github.io)
+
+**License:** <br>
+[MIT License. Clarification of licenses.](https://nvjob.github.io/mit-license)
+
+**Support:** <br>
+[Report a Problem.](https://nvjob.github.io/reportaproblem/)
+
 -------------------------------------------------------------------
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/230/pic/1.gif)
-
-### Prerequisites
-To work on the project, you will need a Unity version of at least 2019.1.8 (64-bit).
-
-### Information
-The movement of clouds is carried out using global shader variables: _SkyShaderUvX, _SkyShaderUvZ.<br/>
-_SkyShaderUvX, _SkyShaderUvZ - Offset main texture (Sky shader).
-
-#### Example script:
-
-```
-using UnityEngine;
-
-public class DynamicSkyLite : MonoBehaviour
-{
-    public float ssgUvRotateSpeed = 1;
-    public float ssgUvRotateDistance = 1;
-    public Transform player;
-    Vector2 ssgVector;
-    Transform tr;
-
-    private void Awake()
-    { 
-        ssgVector = Vector2.zero;
-        tr = transform;
-    }
-
-    void Update()
-    {
-        ssgVector = Quaternion.AngleAxis(Time.time * ssgUvRotateSpeed, Vector3.forward) * Vector2.one * ssgUvRotateDistance;
-        Shader.SetGlobalFloat("_SkyShaderUvX", ssgVector.x);
-        Shader.SetGlobalFloat("_SkyShaderUvZ", ssgVector.y);
-        tr.position = new Vector3(player.position.x, tr.position.y, player.position.z);
-    }
-}
-```
-
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/3a.jpg)
-
-#### Video manual:
-[youtube.com/watch?v=8xBBqnpXuRY](https://www.youtube.com/watch?v=8xBBqnpXuRY) <br>
-[youtube.com/watch?v=7daG2E1tNok](https://www.youtube.com/watch?v=7daG2E1tNok)
-
--------------------------------------------------------------------
-
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/9.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/4.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/6.jpg)
