@@ -1,7 +1,7 @@
 # #NVJOB Dynamic Sky Lite (standard render) v2.3
 #### [nvjob.github.io/unity/nvjob-dynamic-sky-lite](https://nvjob.github.io/unity/nvjob-dynamic-sky-lite)
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/9.jpg)
+
 
 Simple and fast sky shaders. The asset includes two shaders and a simple script.<br>
 There is an example in the asset that allows you to quickly understand how to use the "sky" in your project.<br>
@@ -57,19 +57,7 @@ public class DynamicSkyLite : MonoBehaviour
 
 -------------------------------------------------------------------
 
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/9.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/4.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/6.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/7.jpg)
-
--------------------------------------------------------------------
-
-**Patrons:** [nvjob.github.io/patrons](https://nvjob.github.io/patrons)<br>
-*You can become one of the patrons, or make a sponsorship donation.*
-
--------------------------------------------------------------------
-
-**Authors:** [#NVJOB. Developer Nicholas Veselov. Разработчик Николай Веселов. Санкт-Петербург.](https://nvjob.github.io)
-
-**License:** MIT License. [Clarification of licenses](https://nvjob.github.io/mit-license).
-
-**Support:** [Report a Problem](https://nvjob.github.io/reportaproblem/).
