@@ -61,7 +61,7 @@ GameObject:
   - component: {fileID: 1072101942335096828}
   - component: {fileID: 1072101942335096829}
   m_Layer: 0
-  m_Name: Horizen
+  m_Name: Horizon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

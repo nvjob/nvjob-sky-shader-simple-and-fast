@@ -93,7 +93,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a5be6d6d883d420394021b3c25917f9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ssgUvRotateSpeed: 0.65
+  ssgUvRotateSpeed: 0.9
   ssgUvRotateDistance: 0.2
   player: {fileID: 0}
 --- !u!1 &5603979247842547971
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 5603979247842547972}
   - component: {fileID: 5603979247842547973}
   m_Layer: 0
-  m_Name: Horizen
+  m_Name: Horizon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
