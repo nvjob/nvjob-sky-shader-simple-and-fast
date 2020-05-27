@@ -1,13 +1,13 @@
-# #NVJOB Dynamic Sky Lite (standard render) v2.3
-#### [nvjob.github.io/unity/nvjob-dynamic-sky-lite](https://nvjob.github.io/unity/nvjob-dynamic-sky-lite)
+# #NVJOB Dynamic Sky v2.5
 
-
+### Information
 
 Simple and fast sky shaders. The asset includes two shaders and a simple script.<br>
 There is an example in the asset that allows you to quickly understand how to use the "sky" in your project.<br>
 For the shader to work properly, a dome model with prepared UV is required.
 
-**Previous Versions** - [github.com/nvjob/NVJOB-Sky-Shader-old-versions](https://github.com/nvjob/NVJOB-Sky-Shader-old-versions)
+Full instructions and description - [nvjob.github.io/unity/nvjob-dynamic-sky-lite](https://nvjob.github.io/unity/nvjob-dynamic-sky-lite)<br>
+Previous Versions - [github.com/nvjob/NVJOB-Sky-Shader-old-versions](https://github.com/nvjob/NVJOB-Sky-Shader-old-versions)
 
 ### Compatibility
 
