@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2fe399e4d1d8499cb57b5ad9eb010549
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blurShader: {fileID: 4800000, guid: b738f58120924d199318cf3eee49c3e0, type: 3}
+  - depthFetchShader: {fileID: 4800000, guid: 3134641120244bd0b3fbf029c2489ee8, type: 3}
+  - creaseApplyShader: {fileID: 4800000, guid: 8e10a3c89df3441ba2d4c36e16f61aa7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

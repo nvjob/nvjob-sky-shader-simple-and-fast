@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0442833610cd4a1eb2b3462877af78b2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - vignetteShader: {fileID: 4800000, guid: b52eb19be341425cb756a43c7297b8dd, type: 3}
+  - separableBlurShader: {fileID: 4800000, guid: b738f58120924d199318cf3eee49c3e0,
+      type: 3}
+  - chromAberrationShader: {fileID: 4800000, guid: 5e3b1ca33c7143f9a27ca16a571fb4b7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bbc857dc7e664975838f76965b991fb9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sunTransform: {instanceID: 0}
+  - sunShaftsShader: {fileID: 4800000, guid: 954c0099b32448e08f9ff70910ac72ed, type: 3}
+  - simpleClearShader: {fileID: 4800000, guid: 5a7df4f635a24a4f85ee6075239810fc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

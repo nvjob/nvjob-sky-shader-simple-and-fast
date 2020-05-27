@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: edfb342392964c50ac8ed28654e961d9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - grainTexture: {fileID: 2800000, guid: 66d43debc3344888affe0e3fa58e4927, type: 3}
+  - scratchTexture: {fileID: 2800000, guid: 3440b30ded80476ea246b4cde8e88519, type: 3}
+  - shaderRGB: {fileID: 4800000, guid: c90f98ac4e2646a5b1eeb7770a6030c3, type: 3}
+  - shaderYUV: {fileID: 4800000, guid: 377b46f272e9496eb42ee55fb2b48757, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

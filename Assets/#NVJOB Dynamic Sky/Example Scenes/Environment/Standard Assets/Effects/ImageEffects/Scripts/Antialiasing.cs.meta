@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dafe6bc5514d4c2c903fba517d1f7920
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ssaaShader: {fileID: 4800000, guid: e383b0bbe8b5495393a51ee872e0efdd, type: 3}
+  - dlaaShader: {fileID: 4800000, guid: 5f8e0c1d2ae84c70bb76526131110282, type: 3}
+  - nfaaShader: {fileID: 4800000, guid: e7369dc5a9914e37ac1c50cf585d7857, type: 3}
+  - shaderFXAAPreset2: {fileID: 4800000, guid: 2d11539dd19947a68f1c39a90c2c9733, type: 3}
+  - shaderFXAAPreset3: {fileID: 4800000, guid: 40aed227bb9e4d5b8a6ab2e44348af4f, type: 3}
+  - shaderFXAAII: {fileID: 4800000, guid: 3cdb35578cc84e40aefc823c2978b992, type: 3}
+  - shaderFXAAIII: {fileID: 4800000, guid: 60dcb991027c4648bfc22a2017474aa5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

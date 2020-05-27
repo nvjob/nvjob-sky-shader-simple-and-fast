@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a686f1201cd8415590c7d7929b766341
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tonemapper: {fileID: 4800000, guid: 7138ef44dff74898a90043959f3e459f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

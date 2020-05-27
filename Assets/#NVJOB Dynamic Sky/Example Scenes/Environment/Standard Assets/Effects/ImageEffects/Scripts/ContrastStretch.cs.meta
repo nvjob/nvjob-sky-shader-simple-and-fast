@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f2e5853fd8d6418d88a33f5fd57a8e0a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shaderLum: {fileID: 4800000, guid: dbe890660fe642aabf29cd9d8239ac67, type: 3}
+  - shaderReduce: {fileID: 4800000, guid: 52ab086103604a709a73f739755a5c7c, type: 3}
+  - shaderAdapt: {fileID: 4800000, guid: 5d6a025d1ccc43578cbd200b298bf846, type: 3}
+  - shaderApply: {fileID: 4800000, guid: ad5c8bc6bc4d4c33a4cc85756dabfed2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

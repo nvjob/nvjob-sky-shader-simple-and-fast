@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b5fa913bd6114c4a83bfded2c769dcd6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - focalTransform: {instanceID: 0}
+  - dofHdrShader: {fileID: 4800000, guid: 02472d8dbcab40bba7ddce6f667ab555, type: 3}
+  - dx11BokehShader: {fileID: 4800000, guid: d099e4c717f24fda89db56acbada6b6d, type: 3}
+  - dx11BokehTexture: {fileID: 2800000, guid: 726f934b702a43e6952de32b2098d600, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

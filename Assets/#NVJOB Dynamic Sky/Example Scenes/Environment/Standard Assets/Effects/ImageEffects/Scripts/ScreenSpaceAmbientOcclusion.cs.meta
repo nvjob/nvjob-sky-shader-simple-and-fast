@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 579365b081764ef884fe9d71cfc40d16
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_SSAOShader: {fileID: 4800000, guid: 892d01611ad44d92930007a5bf5d533e, type: 3}
+  - m_RandomTexture: {fileID: 2800000, guid: 3456a3ce4c554762a6008d822f7c4501, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

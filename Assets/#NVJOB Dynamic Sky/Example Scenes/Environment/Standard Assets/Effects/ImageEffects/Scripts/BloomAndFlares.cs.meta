@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7692e554ae31424ab9a6641f66dd8d8a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lensFlareVignetteMask: {fileID: 2800000, guid: 637ba58ee4e24a9f9a837fcbba9715c6,
+      type: 3}
+  - lensFlareShader: {fileID: 4800000, guid: 3b55272732f5401d820a6097e4315a36, type: 3}
+  - vignetteShader: {fileID: 4800000, guid: b52eb19be341425cb756a43c7297b8dd, type: 3}
+  - separableBlurShader: {fileID: 4800000, guid: 65a61ae2ebc144aaabdaab80350c1bbb,
+      type: 3}
+  - addBrightStuffOneOneShader: {fileID: 4800000, guid: ba3666e7392449fc84f0de4e0a8c8590,
+      type: 3}
+  - screenBlendShader: {fileID: 4800000, guid: 99126d9730ad432180f525d842c1e8d5, type: 3}
+  - hollywoodFlaresShader: {fileID: 4800000, guid: aeb0815a828b4a54b8e4799055131479,
+      type: 3}
+  - brightPassFilterShader: {fileID: 4800000, guid: b5415938c1b442d6b3de16db5c81c024,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a3780c3b2cc4205bb0c2e29b1c9be20
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shader: {fileID: 4800000, guid: 08a7e3b84edd4159b720f915f3a0f0d5, type: 3}
+  - dx11MotionBlurShader: {fileID: 4800000, guid: 57ee73a15d5c4669b3f551bdcf0b64b4,
+      type: 3}
+  - replacementClear: {fileID: 4800000, guid: 0c6fe516418340778a43709d31f2f85f, type: 3}
+  - noiseTexture: {fileID: 2800000, guid: 1812366394d544a5b714963ba3853efa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
