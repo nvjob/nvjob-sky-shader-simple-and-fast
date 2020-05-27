@@ -111,7 +111,7 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _IntensityInput: 1.6
-    - _IntensityOutput: 1
+    - _IntensityOutput: 0.79
     - _IntensityT1: 1.5
     - _IntensityT2: 1.4
     - _IntensityT3: -0.57
@@ -136,13 +136,13 @@ Material:
     - _UVSec: 0
     - _VectorX1: 0.7
     - _VectorX2: 1.2
-    - _VectorX3: -0.5
+    - _VectorX3: -1.2
     - _VectorY1: 1.2
-    - _VectorY2: 0.7
-    - _VectorY3: -0.5
+    - _VectorY2: -0.7
+    - _VectorY3: -1.2
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.79607844, g: 0.7484796, b: 0.56760395, a: 0.7882353}
+    - _Color: {r: 0.8745098, g: 0.82131547, b: 0.6174039, a: 0.73333335}
     - _Emission: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Level0Color: {r: 0.37, g: 0.78, b: 0.92, a: 1}
