@@ -23,6 +23,7 @@ public class DynamicSky : MonoBehaviour
     public float ssgUvRotateSpeed = 1;
     public float ssgUvRotateDistance = 1;
     public Transform player;
+    public bool sky2d;
 
     //--------------
 
@@ -51,9 +52,17 @@ public class DynamicSky : MonoBehaviour
     {
         //--------------
 
-        ssgVector = Quaternion.AngleAxis(Time.time * ssgUvRotateSpeed, Vector3.forward) * Vector2.one * ssgUvRotateDistance;
-        Shader.SetGlobalFloat("_SkyShaderUvX", ssgVector.x);
-        Shader.SetGlobalFloat("_SkyShaderUvZ", ssgVector.y);
+        if (sky2d == false)
+        {
+            ssgVector = Quaternion.AngleAxis(Time.time * ssgUvRotateSpeed, Vector3.forward) * Vector2.one * ssgUvRotateDistance;
+            Shader.SetGlobalFloat("_SkyShaderUvX", ssgVector.x);
+            Shader.SetGlobalFloat("_SkyShaderUvZ", ssgVector.y);
+        }
+        else
+        {
+            float speed = Time.time * 0.01f * ssgUvRotateSpeed;
+            Shader.SetGlobalFloat("_SkyShaderUvZ", speed);
+        }
 
         //--------------
 

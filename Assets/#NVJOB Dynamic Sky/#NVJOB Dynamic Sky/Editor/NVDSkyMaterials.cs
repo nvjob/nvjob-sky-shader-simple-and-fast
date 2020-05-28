@@ -338,7 +338,7 @@ public class DynamicSkyForDemoEditor : Editor
 
     Color smLineColor = Color.HSVToRGB(0, 0, 0.55f), bgLineColor = Color.HSVToRGB(0, 0, 0.3f);
     int smLinePadding = 20, bgLinePadding = 35;
-    SerializedProperty uvRotateSpeed, uvRotateDistance, player;
+    SerializedProperty uvRotateSpeed, uvRotateDistance, player, sky2d;
 
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -351,6 +351,7 @@ public class DynamicSkyForDemoEditor : Editor
         uvRotateSpeed = serializedObject.FindProperty("ssgUvRotateSpeed");
         uvRotateDistance = serializedObject.FindProperty("ssgUvRotateDistance");
         player = serializedObject.FindProperty("player");
+        sky2d = serializedObject.FindProperty("sky2d");
 
         //--------------
     }
@@ -374,6 +375,11 @@ public class DynamicSkyForDemoEditor : Editor
         //--------------
 
         EditorGUILayout.LabelField("Sky Movement:", EditorStyles.boldLabel);
+        NVDSkyMaterials.DrawUILine(smLineColor, 1, smLinePadding);
+
+        EditorGUILayout.PropertyField(sky2d, new GUIContent("2D Sky"));
+        EditorGUILayout.HelpBox("Scrolling the sky for 2D scenes.", MessageType.None);
+
         NVDSkyMaterials.DrawUILine(smLineColor, 1, smLinePadding);
 
         EditorGUILayout.PropertyField(uvRotateSpeed, new GUIContent("Rotate Speed"));
