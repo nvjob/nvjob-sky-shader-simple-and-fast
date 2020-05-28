@@ -133,31 +133,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sky 2 (Day) 2D
       objectReference: {fileID: 0}
-    - target: {fileID: 3841249691225461937, guid: 12d49034294d39945acc3abac45a80d8,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3841249691225461938, guid: 12d49034294d39945acc3abac45a80d8,
-        type: 3}
-      propertyPath: m_Brightness
-      value: 0.6
-      objectReference: {fileID: 0}
-    - target: {fileID: 3841249691225461939, guid: 12d49034294d39945acc3abac45a80d8,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1034
-      objectReference: {fileID: 0}
-    - target: {fileID: 3841249691225461939, guid: 12d49034294d39945acc3abac45a80d8,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 276.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 3841249691225461939, guid: 12d49034294d39945acc3abac45a80d8,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 382
-      objectReference: {fileID: 0}
     - target: {fileID: 5603979247659807325, guid: 12d49034294d39945acc3abac45a80d8,
         type: 3}
       propertyPath: m_LocalPosition.x
