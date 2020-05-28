@@ -331,7 +331,7 @@ internal class NVDSkyMaterials : MaterialEditor
 [CustomEditor(typeof(DynamicSky))]
 [CanEditMultipleObjects]
 
-public class DynamicSkyForDemoEditor : Editor
+public class DynamicSkyEditor : Editor
 {
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
